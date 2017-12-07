@@ -1,5 +1,5 @@
 {
-  "name": "conduit-node",
+  "name": "Node Server",
   "version": "1.0.0",
   "description": "Charmcityjoe admin dashboard server",
   "main": "app.js",
